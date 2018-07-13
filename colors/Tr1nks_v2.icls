@@ -1,0 +1,12 @@
+<scheme name="Tr1nks_v2" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-07-13T23:42:19</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-07-13T23:52:44</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="7f8285" />
+  </colors>
+</scheme>
