@@ -3,10 +3,56 @@
     <property name="created">2018-07-13T23:42:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-07-13T23:52:44</property>
+    <property name="modified">2018-07-14T00:23:03</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
-    <option name="LINE_NUMBERS_COLOR" value="7f8285" />
+    <option name="LINE_NUMBERS_COLOR" value="c5c510" />
+    <option name="METHOD_SEPARATORS_COLOR" value="3a3a3a" />
   </colors>
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="b5ff" />
+        <option name="ERROR_STRIPE_COLOR" value="b5ff" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="111d11" />
+        <option name="EFFECT_COLOR" value="ff00" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="172817" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffef28" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="30ff" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d1243b" />
+        <option name="EFFECT_COLOR" value="892e3b" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="40332b" />
+        <option name="EFFECT_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
