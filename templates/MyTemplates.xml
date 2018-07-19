@@ -1,0 +1,8 @@
+<templateSet group="MyTemplates">
+  <template name="singleton" value="private static $cls$ instance;&#10;&#10;public static synchronized $cls$ getInstance(){&#10;    if(instance==null){instance=new $cls$();}&#10;    return instance;&#10;}  " toReformat="false" toShortenFQNames="true">
+    <variable name="cls" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
