@@ -1,8 +1,9 @@
-<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+<keymap version="1" name="Tr1nks_Keymap" parent="Default for KDE">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl 4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ConvertJavaToKotlin" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -22,8 +23,14 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="Help.KeymapReference">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
